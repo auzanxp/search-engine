@@ -67,4 +67,5 @@ export default {
 
 <template>
     <hi>Hallo hallo</hi>
+    <input type="text">
 </template>
