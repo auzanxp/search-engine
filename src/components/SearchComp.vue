@@ -65,4 +65,6 @@ export default {
 };
 </script>
 
-<template></template>
+<template>
+    <hi>Hallo hallo</hi>
+</template>
