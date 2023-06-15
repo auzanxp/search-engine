@@ -66,6 +66,6 @@ export default {
 </script>
 
 <template>
-    <hi>Hallo hallo</hi>
+    <hi>Country</hi>
     <input type="text">
 </template>
