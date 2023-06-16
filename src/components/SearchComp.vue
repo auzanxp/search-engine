@@ -65,7 +65,4 @@ export default {
 };
 </script>
 
-<template>
-    <hi>Country</hi>
-    <input type="text">
-</template>
+<template></template>
